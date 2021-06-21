@@ -24,12 +24,12 @@ import 'testes/teste_um.dart';
     Teste9 teste9 = Teste9();
     Teste10 teste10 = Teste10();
 
-
-
-
-
-    Teste teste= teste10;
+    //Troque "teste1" por outro teste para rodar outro teste.
+    // Ex: teste=teste2;
+    Teste teste= teste1;
     teste.run();
+
+    //Descomentar a função abaixo para rodar todos os testes de uma vez
     //runAll();
   }
 
@@ -44,9 +44,5 @@ import 'testes/teste_um.dart';
      Teste8().run();
      Teste9().run();
      Teste10().run();
-
-
-
-
   }
 
