@@ -7,7 +7,7 @@ Contém a implementação dos testes de lógica proposto para a vaga de estágio
 ### Implementação
 
 * Os códigos se encontram dentro da pasta src.
-* Todos os testes foram separados em classes com seu respectivo nome, Teste1, Teste2, ..., Teste10, e estão dentro da pasta testes.
+* Todos os testes foram separados em classes com seu respectivo número, Teste1, Teste2, ..., Teste10, e estão dentro da pasta testes.
 * Na main.dart é utilizado as classes para realizar os testes.
 * O método "run" de cada classe é basicamente o teste unitário.
 * Foi utilizada uma interface para facilitar a testagem.
